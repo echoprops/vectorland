@@ -2,7 +2,7 @@
 linguagem vetorial de qualidade duvidosa que é REPL, fiz quando vi a quinta aula de C++
 
 observações:
-projeto incompleto, não funciona algumas coisas (o set não funciona, exports não funciona, iterate, add-to-vector, revove-to-vector), o processo de parsing é meio - pobre por depender de espacos e eu não corrigi erros que podem acontecer com abuso dos mesmos e pelo parser ser ruim não suporta strings com expressões que tenham espaços
+projeto incompleto, não funciona algumas coisas (o set não funciona, exports não funciona, iterate, add-to-vector, revove-to-vector), o processo de parsing é meio pobre por depender de espacos e eu não corrigi erros que podem acontecer com abuso dos mesmos e pelo parser ser ruim não suporta strings com expressões que tenham espaços
 - não pretendo completar ele, estou estudando para criar um novo e melhor que tenha um parser/lexxer melhor com outra sintaxe etc
 - não tem editline para histórico etc
 - não lembro das demais coisas
